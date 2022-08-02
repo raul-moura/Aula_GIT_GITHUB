@@ -1,2 +1,3 @@
-# Aula_GIT_GITHUB
- Criando repositório do curdso de Git e GitHub
+# Aula de GIT & GITHUB
+ Criando repositório do curdso de Git e GitHub.
+ Primeiros passos dos estudos.
